@@ -16,8 +16,11 @@ Learning Git 🚀
 After changing in remote 🚀
 
 📌 git add yourfile.html / add .
+
 📌 git commit -m "Your commit message here"
+
 📌 git push origin main
+
 
 👉 check: https://dazzleprogrammer.github.io/gl/
 
